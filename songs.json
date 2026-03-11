@@ -1,0 +1,128 @@
+[
+  {
+    "title": "St. Louis Blues",
+    "artist": "Louis Armstrong",
+    "year": 1926,
+    "country": "USA",
+    "deezerQuery": "artist:Louis Armstrong track:St. Louis Blues"
+  },
+  {
+    "title": "Black and Tan Fantasy",
+    "artist": "Duke Ellington",
+    "year": 1927,
+    "country": "USA",
+    "deezerQuery": "artist:Duke Ellington track:Black and Tan Fantasy"
+  },
+  {
+    "title": "West End Blues",
+    "artist": "Louis Armstrong",
+    "year": 1928,
+    "country": "USA",
+    "deezerQuery": "artist:Louis Armstrong track:West End Blues"
+  },
+  {
+    "title": "Singin' in the Rain",
+    "artist": "Cliff Edwards",
+    "year": 1929,
+    "country": "USA",
+    "deezerQuery": "artist:Cliff Edwards track:Singin' in the Rain"
+  },
+  {
+    "title": "Georgia on My Mind",
+    "artist": "Hoagy Carmichael",
+    "year": 1930,
+    "country": "USA",
+    "deezerQuery": "artist:Hoagy Carmichael track:Georgia on My Mind"
+  },
+  {
+    "title": "Minnie the Moocher",
+    "artist": "Cab Calloway",
+    "year": 1931,
+    "country": "USA",
+    "deezerQuery": "artist:Cab Calloway track:Minnie the Moocher"
+  },
+  {
+    "title": "In the Mood",
+    "artist": "Glenn Miller",
+    "year": 1939,
+    "country": "USA",
+    "deezerQuery": "artist:Glenn Miller track:In the Mood"
+  },
+  {
+    "title": "White Christmas",
+    "artist": "Bing Crosby",
+    "year": 1942,
+    "country": "USA",
+    "deezerQuery": "artist:Bing Crosby track:White Christmas"
+  },
+  {
+    "title": "La Vie en Rose",
+    "artist": "Édith Piaf",
+    "year": 1947,
+    "country": "France",
+    "deezerQuery": "artist:Édith Piaf track:La Vie en Rose"
+  },
+  {
+    "title": "Johnny B. Goode",
+    "artist": "Chuck Berry",
+    "year": 1958,
+    "country": "USA",
+    "deezerQuery": "artist:Chuck Berry track:Johnny B. Goode"
+  },
+  {
+    "title": "She Loves You",
+    "artist": "The Beatles",
+    "year": 1963,
+    "country": "UK",
+    "deezerQuery": "artist:The Beatles track:She Loves You"
+  },
+  {
+    "title": "Dancing Queen",
+    "artist": "ABBA",
+    "year": 1976,
+    "country": "Sweden",
+    "deezerQuery": "artist:ABBA track:Dancing Queen"
+  },
+  {
+    "title": "Billie Jean",
+    "artist": "Michael Jackson",
+    "year": 1982,
+    "country": "USA",
+    "deezerQuery": "artist:Michael Jackson track:Billie Jean"
+  },
+  {
+    "title": "Smells Like Teen Spirit",
+    "artist": "Nirvana",
+    "year": 1991,
+    "country": "USA",
+    "deezerQuery": "artist:Nirvana track:Smells Like Teen Spirit"
+  },
+  {
+    "title": "Toxic",
+    "artist": "Britney Spears",
+    "year": 2003,
+    "country": "USA",
+    "deezerQuery": "artist:Britney Spears track:Toxic"
+  },
+  {
+    "title": "Rolling in the Deep",
+    "artist": "Adele",
+    "year": 2010,
+    "country": "UK",
+    "deezerQuery": "artist:Adele track:Rolling in the Deep"
+  },
+  {
+    "title": "Blinding Lights",
+    "artist": "The Weeknd",
+    "year": 2019,
+    "country": "Canada",
+    "deezerQuery": "artist:The Weeknd track:Blinding Lights"
+  },
+  {
+    "title": "Flowers",
+    "artist": "Miley Cyrus",
+    "year": 2023,
+    "country": "USA",
+    "deezerQuery": "artist:Miley Cyrus track:Flowers"
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "name": "Hitster Clone - Music Timeline Game",
+  "description": "A multiplayer music timeline guessing game using Deezer API previews and Firebase Realtime Database.",
+  "requestFramePermissions": []
+}

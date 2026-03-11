@@ -1,0 +1,35 @@
+{
+  "entities": {
+    "User": {
+      "title": "User",
+      "description": "User profile information",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string" },
+        "displayName": { "type": "string" },
+        "photoURL": { "type": "string" },
+        "email": { "type": "string" }
+      },
+      "required": ["uid", "displayName"]
+    },
+    "GameRoom": {
+      "title": "Game Room",
+      "description": "Active game session in Realtime Database",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "hostId": { "type": "string" },
+        "status": { "type": "string", "enum": ["lobby", "playing", "round_end", "game_end"] },
+        "players": { "type": "object" },
+        "currentSong": { "type": "object" },
+        "settings": { "type": "object" }
+      }
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "User",
+      "description": "User profiles"
+    }
+  }
+}
